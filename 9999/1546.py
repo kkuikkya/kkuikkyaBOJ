@@ -15,5 +15,5 @@ arr = list(map(int, input().split()))
 
 sumArr = sum(arr)
 
-print(sumArr / max(arr) * 100)
+print(sumArr / max(arr) * 100 / n)
 
